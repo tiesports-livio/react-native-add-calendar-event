@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage     = 'https://github.com/vonovak/react-native-add-calendar-event'
   s.author       = package_json['author']
   s.license      = package_json['license']
-  s.platform     = :ios, '8.0'
+  s.platform     = :ios, '12.4'
   s.source       = { :git => 'https://github.com/vonovak/react-native-add-calendar-event.git', :tag => "v#{s.version}" }
 
   s.source_files  = 'ios/*.{h,m}'

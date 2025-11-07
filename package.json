@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/vonovak/react-native-add-calendar-event#readme",
   "peerDependencies": {
-    "expo": ">=47.0.0"
+    "expo": ">=47.0.0",
+    "react-native": ">=0.60.0"
   },
   "peerDependenciesMeta": {
     "expo": {
